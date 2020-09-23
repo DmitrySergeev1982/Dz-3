@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel dz3.html --open",
-    "build": "parcel build dz3.html"
+    "dev": "parcel dz3.2.html --open",
+    "build": "parcel build dz3.2.html"
   },
   "repository": {
     "type": "git",
